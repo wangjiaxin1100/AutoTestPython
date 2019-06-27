@@ -1,0 +1,6 @@
+2019-06-27 17:09:50,277 - BrowserEngine - INFO - You had select Chrome browser.
+2019-06-27 17:09:50,277 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2019-06-27 17:09:53,569 - BrowserEngine - INFO - Starting Chrome browser.
+2019-06-27 17:09:56,445 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2019-06-27 17:09:57,575 - BrowserEngine - INFO - Maximize the current window.
+2019-06-27 17:09:57,576 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
